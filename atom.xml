@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Hexo</title>
+  
+  
+  <link href="http://example.com/atom.xml" rel="self"/>
+  
+  <link href="http://example.com/"/>
+  <updated>2022-03-21T08:19:13.542Z</updated>
+  <id>http://example.com/</id>
+  
+  <author>
+    <name>panpan</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>云计算作业二</title>
+    <link href="http://example.com/2022/03/21/%E4%BA%91%E8%AE%A1%E7%AE%97%E4%BD%9C%E4%B8%9A%E4%BA%8C/"/>
+    <id>http://example.com/2022/03/21/%E4%BA%91%E8%AE%A1%E7%AE%97%E4%BD%9C%E4%B8%9A%E4%BA%8C/</id>
+    <published>2022-03-21T07:51:18.000Z</published>
+    <updated>2022-03-21T08:19:13.542Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="列举威胁作用者有哪些，并简要说明"><a href="#列举威胁作用者有哪些，并简要说明" class="headerlink" title="列举威胁作用者有哪些，并简要说明"></a>列举威胁作用者有哪些，并简要说明</h1><ul><li>匿名攻击者：匿名攻击者是云中没有权限、不被信任的云服务用户，它通常是一个外部软件程序，通过公网发动网络攻击。当匿名攻击者对安全策略和防护所致有限时，这会抑制它们形成有效攻击的能力。因此，匿名攻击者往往诉诸绕过账号或窃取用户证书的手段，同时使用能够确保匿名性或需要大量资源才能被检举的方法。</li><li>恶意服务作用者：恶意服务作用者能截取并转发云内的网络流量。它通常是带有被损害的或恶意逻辑的服务代理或伪装成服务代理的程序，也有可能是能够远程截取并破坏消息内容的外部程序。</li><li>授信的攻击者：授信的攻击者与同意云环境中的云用户共享IT资源，试图利用合法的证书来把云提供者以及它们共享IT资源的云租户作为攻击目标。不同匿名攻击者（它们是非授权的），授信的攻击者通常滥用合法的证书或通过挪用敏感和保密的信息，在云的信任边界内部发动攻击。</li><li>恶意的内部人员：恶意的内部人员是人为的威胁作用者，它们的行为代表云提供者或者与之有关。它们通常是现任或前任雇员，或是能够访问云提供者资源范围的第三方。这种类型的威胁作用者会带来极大的破坏可能性，因为恶意的内部人员可能拥有访问云用户IT资源的管理特权。</li></ul><h1 id="列举云安全威胁有哪些，并简要说明。"><a href="#列举云安全威胁有哪些，并简要说明。" class="headerlink" title="列举云安全威胁有哪些，并简要说明。"></a>列举云安全威胁有哪些，并简要说明。</h1><ul><li>流量窃听和恶意媒介攻击，通常是由截取网络流量的恶意服务作用者实施</li><li>拒绝服务攻击(DoS)：使IT资源因为请求过多而负载过重至无法正确运行而瘫痪</li><li>授权不足攻击：错误授予了攻击者访问权限而导致的安全问题，也有可能是因为设置了弱密码而被攻破</li><li>虚拟化攻击：利用虚拟环境的漏洞，获取了对底层物理硬件未被授权的访问。</li><li>重叠的信任边界：攻击与他人共享的IT资源，目的为损害其他共享同样信任边界的云服务用户或者IT资源</li></ul><hr><pre><code>                             ❤心情美丽 生活可爱❤</code></pre>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;列举威胁作用者有哪些，并简要说明&quot;&gt;&lt;a href=&quot;#列举威胁作用者有哪些，并简要说明&quot; class=&quot;headerlink&quot; title=&quot;列举威胁作用者有哪些，并简要说明&quot;&gt;&lt;/a&gt;列举威胁作用者有哪些，并简要说明&lt;/h1&gt;&lt;ul&gt;
+&lt;li&gt;匿名攻击者：匿名</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>云计算作业</title>
+    <link href="http://example.com/2022/03/14/%E4%BA%91%E8%AE%A1%E7%AE%97%E4%BD%9C%E4%B8%9A/"/>
+    <id>http://example.com/2022/03/14/%E4%BA%91%E8%AE%A1%E7%AE%97%E4%BD%9C%E4%B8%9A/</id>
+    <published>2022-03-14T01:50:27.000Z</published>
+    <updated>2022-03-14T06:15:46.466Z</updated>
+    
+    <content type="html"><![CDATA[<p>  <strong># 云使能技术包括哪些技术组件？ #</strong></p><ul><li><p>数据中心技术：一种特殊的IT基础设施，用于集中放置IT资源；</p></li><li><p>虚拟化技术：是将物理IT资源转换为虚拟IT资源的过程，虚拟服务器使用自己的客户操作系统，独立于创建虚拟服务器的操作系统，在虚拟服务器上运行的客户操作系统和应用软件，都不会感知到虚拟化的过程；</p></li><li><p>Web技术：WWW是由通过Internet访问的互联IT资源构成的系统，其两个基本组件是Web浏览器客户端和Web服务器；</p></li><li><p>多租户技术：使用隔离，数据安全，可恢复性，应用升级，可扩展性，使用计费，数据层隔离；</p></li><li><p>服务技术：基于Web的服务(如Web服务和REST服务)依靠非专有通信和技术接口定义来建立基于Web技术的标准通信框架，服务代理提供事件驱动运行时处理，适用于云中大量的功能。许多代理都自动部署在操作系统和基于云的产品中，服务中间件(如ESB和业务流程平台)可以在云上部署。</p></li></ul><p><strong># 列举3种虚拟化软件 #</strong></p><ul><li>VMware ESXi重点于服务器虚拟化，技术较成熟，功能也多，支持虚机系统多；</li><li>Xenserver重点在于桌面虚拟化，性价比高，网络性能好，适用于快速与大规模部署，支持系统也不少，但做桌面能发布出来的只有MS系统；</li><li><pre><code>Hyper-V起步的最晚，目前貌似只支持MS自家的系统，属于服务器级的，Server08版自带功能。</code></pre></li></ul><hr>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;  &lt;strong&gt;# 云使能技术包括哪些技术组件？ #&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;数据中心技术：一种特殊的IT基础设施，用于集中放置IT资源；&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;虚拟化技术：是将物理IT资源转换为虚拟IT资源的过程，虚拟服务器使用自</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
